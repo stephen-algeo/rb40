@@ -12,6 +12,7 @@ function App() {
           Consultancy
         </h2>
         <h3>React.js Apps</h3>
+        <h3>Typescript | GraphQL | Node</h3>
         <h3>Modern JavaScript testing with Jest</h3>
         <a
           className="App-link"
